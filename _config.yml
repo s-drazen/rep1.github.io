@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
 title: test page
 description: tko preživi pričati će
+- name: Node App Helper Actions
+  uses: guahanweb/action-nodejs-gh-pages@1.0.0
